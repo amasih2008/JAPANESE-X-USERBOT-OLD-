@@ -1,1 +1,1 @@
-worker: python3 -m X
+NOBI: bash setup
