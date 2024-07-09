@@ -80,7 +80,7 @@ _ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴅᴇᴘʟᴏʏ/ʜᴏ�
 
 ## ʟɪᴄᴇɴᴄᴇ 
 
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://github.com/VARC9210/STORM-USERBOT/blob/main/LICENSE)  
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://github.com/Team-Japanese/Japanese-X-Userbot/blob/main/LICENSE)  
 
 
 ## ᴄʀᴇᴅɪᴛꜱ
