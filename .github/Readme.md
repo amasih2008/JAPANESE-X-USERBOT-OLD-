@@ -1,9 +1,4 @@
 <p align="center">
-    <b> ᴠɪsɪᴛᴏʀs </b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/Japanese-X-Userbot/count.svg" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=F70000&lines=ωσяℓ∂+ℓαяgεsт+αη∂+ғαsтεsт+υsεявσт;ηεvεя+εxιsтε∂+ιη+тнιs+ωσяℓ∂+вεғσяε;+𝐉𝐀𝐏𝐀𝐍𝐄𝐒𝐄+𝐗+𝐔𝐒𝐄𝐑𝐁𝐎𝐓❤️✨+%E2%9D%A4%EF%B8%8F">
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -14,11 +9,10 @@
   <img src="https://graph.org/file/5de731c1f5c71f13f855a.jpg">
 </p>
 
-
-
-
-
-
+<p align="center">
+    <b> ᴠɪsɪᴛᴏʀs </b><br>
+     <img align="middle" src="https://profile-counter.glitch.me/Japanese-X-Userbot/count.svg" />
+</p>
 
 <p align="center">
 <a href="https://github.com/Team-Japanese/Japanese-X-Userbot/stargazers"><img src="https://img.shields.io/github/stars/Team-Japanese/Japanese-X-Userbot?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
@@ -29,71 +23,70 @@
 </p>
 
 
+## ᴄᴏɴꜰɪɢ ᴠᴀʀɪᴀʙʟᴇꜱ
+
+✧ _ᴏᴡɴᴇʀ ɪᴅ_
+
+✧ _ᴏᴡɴᴇʀ ɴᴀᴍᴇ_
+
+✧ _ᴀ ʙᴏᴛ ᴛᴏᴋᴇɴ_
+
+✧ _ᴘʏʀᴏɢʀᴀᴍ ᴠ2 ꜱᴇꜱꜱɪᴏɴ_
+
+✧ _ᴍᴏɴɢᴏ ᴅʙ ᴜʀʟ_
 
 
-## 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔 :
+## ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
-✧ 𝑶𝒘𝒏𝒆𝒓 𝑰𝒅
+## ʜᴇʀᴏᴋᴜ ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
-✧ 𝑶𝒘𝒏𝒆𝒓 𝑵𝒂𝒎𝒆
+_ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴅᴇᴘʟᴏʏ/ʜᴏꜱᴛ ᴏᴜʀ ᴜꜱᴇʀʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ_
 
-✧𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏
-
-✧𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎 𝐕2 𝑺𝒕𝒓𝒊𝒏𝒈 𝑺𝒆𝒔𝒔𝒊𝒐𝒏
-
-✧𝑴𝒐𝒏𝒈𝒐 𝑫𝒃 𝑼𝒓𝒍
-
-
-
-## 𝑫𝒆𝒑𝒍𝒐𝒚 𝑻𝒐 𝑯𝒆𝒓𝒐𝒌𝒖
-
-𝑭𝒐𝒍𝒍𝒐𝒘 𝒕𝒉𝒆𝒔𝒆 𝒔𝒕𝒆𝒑𝒔 𝒕𝒐 𝒅𝒆𝒑𝒍𝒐𝒚 𝑱𝒂𝒑𝒂𝒏𝒆𝒔𝒆-𝑿-𝑼𝒔𝒆𝒓𝒃𝒐𝒕 𝒐𝒏 𝑯𝒆𝒓𝒐𝒌𝒖:
-
-1. **𝑭𝒐𝒓𝒌 & 𝑺𝒕𝒂𝒓 𝒕𝒉𝒊𝒔 [𝑹𝒆𝒑𝒐](https://github.com/Team-Japanese/Japanese-X-Userbot) :**
+1. **_ᴍᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ [_ʀᴇᴘᴏ_](https://github.com/Team-Japanese/Japanese-X-Userbot) & ꜱᴛᴀʀ_**
     
-2. **𝑯𝒆𝒓𝒐𝒌𝒖 𝑨𝒄𝒄𝒐𝒖𝒏𝒕 𝑳𝒐𝒈𝒊𝒏 :**
+2. **_ʟᴏɢɪɴ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ ᴏʀ ᴄʀᴇᴀᴛᴇ ᴀ ɴᴇᴡ ᴏɴᴇ_**
   
-
-3. **𝑪𝒍𝒊𝒄𝒌 𝑫𝒆𝒑𝒍𝒐𝒚 𝒕𝒐 𝑯𝒆𝒓𝒐𝒌𝒖 :**
+3. **_ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴋᴏ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTeam-Japanese%2FJapanese-X-Userbot)_**
    
-
-4. **𝑭𝒊𝒍𝒍 𝑹𝒆𝒒𝒖𝒊𝒓𝒆𝒅 𝑽𝒂𝒓𝒊𝒂𝒃𝒍𝒆𝒔 :**
+4. **_ꜰɪʟʟ ɪɴ ᴛʜᴇ ʀᴇQᴜɪʀᴇᴅ ᴠᴀʀɪᴀʙʟᴇꜱ, ᴀɴᴅ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴍᴏʀᴇ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ꜰᴇᴀᴛᴜʀᴇꜱ, ꜰɪʟʟ ɪɴ ᴛʜᴇ ᴏᴘᴛɪᴏɴᴀʟ ᴠᴀʀɪᴀʙʟᴇꜱ ᴀꜱ ᴡᴇʟʟ_**
   
 
-<p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/Team-Japanese/Japanese-X-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTeam-Japanese%2FJapanese-X-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-# 𝑫𝑰𝑺𝑪𝑳𝑨𝑰𝑴𝑬𝑹
+## ᴛᴇʟᴇɢʀᴀᴍ
+
+[![ᴄʜᴀᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/Chat%20on-Telegram-blue.svg)](https://t.me/Nobitaa_xd)
+
+[![Telegram](https://img.shields.io/badge/Telegram-groups-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+)](https://t.me/Japanese_Userbot_Support)
+
+[![Telegram](https://img.shields.io/badge/Telegram-channels-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+)](https://t.me/Japanese_Userbot)
 
 
-```console
-                      ❗️YOU ARE FOREWARNED❗️
+## ᴅɪꜱᴄʟᴀɪᴍᴇʀ
 
-                       ⚠️ ᴡᴀʀɴɪɴɢ ꜰᴏʀ ʏᴏᴜ ⚠️
+- ᴏᴜʀ ᴛᴇᴀᴍ ᴅɪꜱᴄʟᴀɪᴍꜱ ʀᴇꜱᴘᴏɴꜱɪʙɪʟɪᴛʏ ꜰᴏʀ ᴀɴʏ ᴄᴏɴꜱᴇQᴜᴇɴᴄᴇꜱ ᴛᴏ ʏᴏᴜʀ ᴛᴇʟᴇɢʀᴀᴍ ᴀᴄᴄᴏᴜɴᴛ.
+ɪꜰ ɪꜱꜱᴜᴇꜱ ᴀʀɪꜱᴇ ᴅᴜᴇ ᴛᴏ ᴍɪꜱᴜꜱᴇ ᴏʀ ᴄᴏɴꜰʟɪᴄᴛꜱ, ᴀᴄᴄᴏᴜɴᴛᴀʙɪʟɪᴛʏ ʀᴇꜱᴛꜱ ᴡɪᴛʜ ᴛʜᴇ ᴜꜱᴇʀ.
+ᴛʜᴇ ʙᴏᴛ ꜱᴇʀᴠᴇꜱ ꜰᴏʀ ʀᴇᴄʀᴇᴀᴛɪᴏɴᴀʟ ᴘᴜʀᴘᴏꜱᴇꜱ ᴀɴᴅ ᴀɪᴍꜱ ᴛᴏ ꜱᴛʀᴇᴀᴍʟɪɴᴇ ɢʀᴏᴜᴘ/ᴘʀᴏꜰɪʟᴇ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ.
+ᴜꜱᴇʀ-ᴄᴀᴜꜱᴇᴅ ᴀᴄᴄᴏᴜɴᴛ ɪꜱꜱᴜᴇꜱ ᴀʀᴇ ʙᴇʏᴏɴᴅ ᴏᴜʀ ᴘᴜʀᴠɪᴇᴡ.
 
-! We won't be responsible for any kind of ban due to this bot.
-! Bot Spam was made for fun purpose and to make group management easier.
-! It's your concern if you spam and gets your account banned.
-! Also, Forks won't be entertained.
-! If you fork this repo and edit plugins, it's your concern for further updates.
-! Forking Repo is fine. But if you edit something we will not provide any help.
-! In short, Fork At Your Own Risk    
+- ᴡʜɪʟᴇ ꜰᴏʀᴋɪɴɢ ᴛʜᴇ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ɪꜱ ᴘᴇʀᴍɪᴛᴛᴇᴅ, ᴡᴇ ᴡᴏɴ'ᴛ ꜱᴜᴘᴘᴏʀᴛ ᴇᴅɪᴛᴇᴅ ᴘʟᴜɢɪɴꜱ ᴏʀ ᴍᴏᴅɪꜰɪᴄᴀᴛɪᴏɴꜱ.
+ʀᴇꜱᴘᴏɴꜱɪʙɪʟɪᴛʏ ꜰᴏʀ ꜰᴜʀᴛʜᴇʀ ᴜᴘᴅᴀᴛᴇꜱ ʟɪᴇꜱ ᴡɪᴛʜ ɪɴᴅɪᴠɪᴅᴜᴀʟ ꜰᴏʀᴋᴇʀꜱ.
 
-               💖 Thanks for using our bot 💖
+- ᴛʜɪꜱ ꜱᴇʀᴠɪᴄᴇ ᴅᴏᴇꜱ ɴᴏᴛ ᴘʀᴏᴠɪᴅᴇ ɪɴᴅɪᴠɪᴅᴜᴀʟɪᴢᴇᴅ ꜱᴜᴘᴘᴏʀᴛ.
+ꜱʜᴏᴜʟᴅ ʏᴏᴜ ʀᴇQᴜɪʀᴇ ᴀꜱꜱɪꜱᴛᴀɴᴄᴇ, ᴋɪɴᴅʟʏ ᴇɴɢᴀɢᴇ ᴡɪᴛʜ ᴏᴜʀ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ ꜰᴏʀ ᴄᴏᴍᴍᴜɴɪᴛʏ-ʙᴀꜱᴇᴅ ɢᴜɪᴅᴀɴᴄᴇ.
 
-```
+» ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴄʜᴏᴏꜱɪɴɢ ᴏᴜʀ ʙᴏᴛ. ᴡᴇ ɢʀᴇᴀᴛʟʏ ᴀᴘᴘʀᴇᴄɪᴀᴛᴇ ʏᴏᴜʀ ᴜɴᴅᴇʀꜱᴛᴀɴᴅɪɴɢ ᴀɴᴅ ᴄᴏɴᴛɪɴᴜᴇᴅ ꜱᴜᴘᴘᴏʀᴛ. 
 
-## 𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑮𝒓𝒐𝒖𝒑 / 𝑪𝒉𝒂𝒏𝒏𝒆𝒍
+## ʟɪᴄᴇɴᴄᴇ 
 
-<p align="center"><a href="https://t.me/Japanese_Userbot_Support"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚂𝚄𝙿𝙿𝙾𝚁𝚃-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-
-<p align="center"><a href="https://t.me/Japanese_Userbot"><img src="https://img.shields.io/badge/𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼-𝚄𝙿𝙳𝙰𝚃𝙴𝚂-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://github.com/VARC9210/STORM-USERBOT/blob/main/LICENSE)  
 
 
-### 𝑪𝒓𝒆𝒅𝒊𝒕
+## ᴄʀᴇᴅɪᴛꜱ
 
 <h3 align="center">
-    ─「 𝑪𝒓𝒆𝒅𝒊𝒕 」─
+    ─「 ᴄʀᴇᴅɪᴛꜱ 」─
 </h3>
 
 ✧ <b>[𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://github.com/nobitaaaxd) 
