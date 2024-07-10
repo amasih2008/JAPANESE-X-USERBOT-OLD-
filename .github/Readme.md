@@ -83,7 +83,7 @@ _ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴅᴇᴘʟᴏʏ/ʜᴏ�
 <a href="https://github.com/Team-Japanese/Japanese-X-Userbot/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-white?style=for-the-badge" alt="License" /> </a>
 
 
-## ᴄʀᴇᴅɪᴛꜱ
+
 
 <h3 align="center">
     ─「 ᴄʀᴇᴅɪᴛꜱ 」─
