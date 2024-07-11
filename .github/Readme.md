@@ -89,10 +89,6 @@ _ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴅᴇᴘʟᴏʏ/ʜᴏ�
     ─「 ᴄʀᴇᴅɪᴛꜱ 」─
 </h3>
 
-✧ <b>[𝐍𝐎𝐁𝐈𝐓𝐀_𝐗𝐃](https://github.com/nobitaaaxd) 
-
-✧ <b>[𝐌𝐈𝐑𝐙𝐀](https://github.com/MirzyaOP) 
-
-✧ <b>[⌯ Kᴜɴᴀʟ࿐ 🕊](https://github.com/VARC9210)
-
-✧ <b>[꧁༒ℍ𝕚 𝕀 𝔸𝕞 𓆩 𝔻𝕖𝕧𝕚𝕝 𓆪💞ᵛᵉʳⁱᶠⁱᵉᵈ༒꧂](https://t.me/TryToLiveAlon)
+<a href="https://github.com/Team-Japanese/Japanese-X-Userbot/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=VARC9210/STORM-USERBOT" />
+</a
