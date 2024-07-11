@@ -84,10 +84,7 @@ _ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴅᴇᴘʟᴏʏ/ʜᴏ�
 
 
 
-
-<h3 align="center">
-    ─「 ᴄʀᴇᴅɪᴛꜱ 」─
-</h3>
+## ᴄʀᴇᴅɪᴛs
 
 <a href="https://github.com/Team-Japanese/Japanese-X-Userbot/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Team-Japanese/Japanese-X-Userbot" />
