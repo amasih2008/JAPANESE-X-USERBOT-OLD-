@@ -90,5 +90,5 @@ _ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴅᴇᴘʟᴏʏ/ʜᴏ�
 </h3>
 
 <a href="https://github.com/Team-Japanese/Japanese-X-Userbot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=VARC9210/STORM-USERBOT" />
+  <img src="https://contrib.rocks/image?repo=Team-Japanese/Japanese-X-Userbot" />
 </a
