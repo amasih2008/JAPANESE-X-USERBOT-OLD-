@@ -55,7 +55,13 @@ _ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴅᴇᴘʟᴏʏ/ʜᴏ�
 
 ## Dᴇᴘʟᴏʏ Tᴏ Lᴏᴄᴀʟ Hᴏsᴛ/Vᴘs/Tᴇʀᴍᴜx/Tᴇʀᴍɪɴᴀʟ
 
-1. `git clone https://github.com/Team-Japanese/Plugins`
+1.`apt update && apt upgrade`
+
+  `apt install python3 -y`
+
+  `pkg install git`
+
+   `git clone https://github.com/Team-Japanese/Plugins`
 
 2. `git clone https://github.com/Team-Japanese/Japanese-X-Userbot && cd Japanese-X-Userbot`
 
