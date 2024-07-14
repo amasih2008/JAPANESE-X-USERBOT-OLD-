@@ -61,9 +61,9 @@ _ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴅᴇᴘʟᴏʏ/ʜᴏ�
 
 3. `cp sample.env .env && vi .env`
 
-4. press `i`
+4. Press `i`
 
-5. fill variables
+5. [Fill Variables](https://github.com/Team-Japanese/Japanese-X-Userbot/blob/main/sample.env)
 
 6. To save the file press `Esc` button and write `:wq` using your keyboard and press `Enter`
 
