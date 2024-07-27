@@ -42,16 +42,16 @@
 
 _ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴅᴇᴘʟᴏʏ/ʜᴏꜱᴛ ᴏᴜʀ ᴜꜱᴇʀʙᴏᴛ ᴏɴ ʜᴇʀᴏᴋᴜ_
 
-1. **_ᴍᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ [_ʀᴇᴘᴏ_](https://github.com/Team-Japanese/Japanese-X-Userbot) & ꜱᴛᴀʀ_**
+1. **_ᴍᴜꜱᴛ ꜰᴏʀᴋ ᴛʜᴇ [_ʀᴇᴘᴏ_](https://github.com/kxunal/JAPANESE) & ꜱᴛᴀʀ_**
     
 2. **_ʟᴏɢɪɴ ʏᴏᴜʀ ʜᴇʀᴏᴋᴜ ᴀᴄᴄᴏᴜɴᴛ ᴏʀ ᴄʀᴇᴀᴛᴇ ᴀ ɴᴇᴡ ᴏɴᴇ_**
   
-3. **_ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴋᴏ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTeam-Japanese%2FJapanese-X-Userbot)_**
+3. **_ᴄʟɪᴄᴋ ʜᴇʀᴇ ᴛᴏ ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴋᴏ [ᴄʟɪᴄᴋ ʜᴇʀᴇ](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkxunal%2FJAPANESE)_**
    
 4. **_ꜰɪʟʟ ɪɴ ᴛʜᴇ ʀᴇQᴜɪʀᴇᴅ ᴠᴀʀɪᴀʙʟᴇꜱ, ᴀɴᴅ ɪꜰ ʏᴏᴜ ᴡᴀɴᴛ ᴍᴏʀᴇ ᴄᴜꜱᴛᴏᴍɪᴢᴀʙʟᴇ ꜰᴇᴀᴛᴜʀᴇꜱ, ꜰɪʟʟ ɪɴ ᴛʜᴇ ᴏᴘᴛɪᴏɴᴀʟ ᴠᴀʀɪᴀʙʟᴇꜱ ᴀꜱ ᴡᴇʟʟ_**
   
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FTeam-Japanese%2FJapanese-X-Userbot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fkxunal%2FJAPANESE"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## Dᴇᴘʟᴏʏ Tᴏ Lᴏᴄᴀʟ Hᴏsᴛ/Vᴘs/Tᴇʀᴍᴜx/Tᴇʀᴍɪɴᴀʟ
 
@@ -69,7 +69,7 @@ _ꜰᴏʟʟᴏᴡ ᴛʜᴇꜱᴇ ꜱᴛᴇᴘꜱ ᴛᴏ ᴅᴇᴘʟᴏʏ/ʜᴏ�
 
 4. Press `i`
 
-5. [Fill Variables](https://github.com/Team-Japanese/Japanese-X-Userbot/blob/main/sample.env)
+5. [Fill Variables](https://github.com/kxunal/JAPANESE/blob/main/sample.env)
 
 6. To save the file press `Esc` button and write `:wq` using your keyboard and press `Enter`
 
